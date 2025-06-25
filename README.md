@@ -52,7 +52,9 @@ A responsive and modern Task Manager web app built with **React**, **Vite**, and
 
 https://week-3-react-js-assignment-wangarij.vercel.app
 
-<pre> ## 📁 Project Structure ```text src/ ├── assets/ # Static images and icons ├── components/ # Reusable UI components ├── context/ # Theme context provider ├── api/ # API logic (if separated) ├── App.jsx # Main app layout ├── main.jsx # App entry point ├── index.css # Global styles ``` </pre>
+## 📁 Project Structure 
+
+```text src/ ├── assets/ # Static images and icons ├── components/ # Reusable UI components ├── context/ # Theme context provider ├── api/ # API logic (if separated) ├── App.jsx # Main app layout ├── main.jsx # App entry point ├── index.css # Global styles ```
        
 ## ⚙️ Customization
 
