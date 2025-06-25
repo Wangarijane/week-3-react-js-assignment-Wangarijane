@@ -23,10 +23,8 @@ A responsive and modern Task Manager web app built with **React**, **Vite**, and
 
 ## 📷 Screenshots
 
-> _You can add screenshots here if you’d like!_  
-> Example:
-> ![screenshot](![image](https://github.com/user-attachments/assets/85b69f26-8810-4ca8-94e9-0576444c9bfa)
-)
+![Screenshot](https://github.com/user-attachments/assets/61452fb5-e6ff-4c3b-9c54-0dbb0dfccec2)
+
 
 ## 🧑‍💻 Getting Started
 
