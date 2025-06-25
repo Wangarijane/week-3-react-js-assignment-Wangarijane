@@ -48,13 +48,13 @@ A responsive and modern Task Manager web app built with **React**, **Vite**, and
    ```bash
    http://localhost:5173
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 
 https://week-3-react-js-assignment-wangarij.vercel.app
 
-### 📁 Project Structure
-    ```bash
-    src/
+## 📁 Project Structure
+   **text**
+   src/
 ├── assets/            # Static images and icons
 ├── components/        # Reusable UI components
 ├── context/           # Theme context provider
@@ -62,15 +62,16 @@ https://week-3-react-js-assignment-wangarij.vercel.app
 ├── App.jsx            # Main app layout
 ├── main.jsx           # App entry point
 ├── index.css          # Global styles
-   
-### ⚙️ Customization
+       
+## ⚙️ Customization
 
 - You can change the color palette using Tailwind's config
 
 - You can replace the API source in Posts.jsx to pull in real-world data
 
-### 📝 License
-This project is for educational use as part of the PLP program.  
+## 📝 License
+
+- This project is for educational use as part of the PLP program.  
 
 
 
